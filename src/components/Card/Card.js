@@ -1,5 +1,5 @@
 import './Card.css';
-import cardImge from '../../images/image-qr-code.png';
+import cardImge from '../../images/qr_image.jpg';
 
 const Card = () => {
   return (
@@ -11,8 +11,7 @@ const Card = () => {
         Improve your front-end skills by building projects
       </h2>
       <p className='card__text'>
-        Scan the QR code to visit Frontend Mentor and take your coding skills to
-        the next level
+        Scan the QR code to visit my Github profile and have fun coding!
       </p>
     </div>
   );
