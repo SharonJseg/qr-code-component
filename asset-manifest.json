@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/qr-code-component/static/css/main.0ebb698d.css",
+    "main.js": "/qr-code-component/static/js/main.c9ec78c5.js",
+    "static/js/787.cc137750.chunk.js": "/qr-code-component/static/js/787.cc137750.chunk.js",
+    "static/media/qr_image.jpg": "/qr-code-component/static/media/qr_image.8bc701b80c1142ed81a0.jpg",
+    "static/media/Outfit-Regular.woff": "/qr-code-component/static/media/Outfit-Regular.a70cedb1f546905630b5.woff",
+    "static/media/Outfit-Bold.woff": "/qr-code-component/static/media/Outfit-Bold.20663b58dfe11d2aa181.woff",
+    "static/media/Outfit-Regular.woff2": "/qr-code-component/static/media/Outfit-Regular.35aa5f067c18a140ed0a.woff2",
+    "static/media/Outfit-Bold.woff2": "/qr-code-component/static/media/Outfit-Bold.de7c82f0b49fce279075.woff2",
+    "index.html": "/qr-code-component/index.html",
+    "main.0ebb698d.css.map": "/qr-code-component/static/css/main.0ebb698d.css.map",
+    "main.c9ec78c5.js.map": "/qr-code-component/static/js/main.c9ec78c5.js.map",
+    "787.cc137750.chunk.js.map": "/qr-code-component/static/js/787.cc137750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebb698d.css",
+    "static/js/main.c9ec78c5.js"
+  ]
+}
